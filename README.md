@@ -73,7 +73,4 @@ This project successfully demonstrates how an ERP system manages the complete Or
 
 ---
 
-##  Author
 
-Your Kshitij Joshi
-GitHub: kazitsu11
